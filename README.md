@@ -1,8 +1,8 @@
-# TAMM Benchmarks
+# (T) Benchmarks
 
 ## Intro
 
-This is a collection of lua scripts for benchmarking TAMM services. The banchmark scripts are written for [WRK](https://github.com/wg/wrk) to simulate the load on the servers.
+This is a collection of lua scripts for benchmarking (T) services. The banchmark scripts are written for [WRK](https://github.com/wg/wrk) to simulate the load on the servers.
 
 ## Usage
 
